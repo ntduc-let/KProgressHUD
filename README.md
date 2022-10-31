@@ -1,5 +1,3 @@
-A progress HUD implementation for Android.
-
 ![](https://raw.githubusercontent.com/Kaopiz/KProgressHUD/master/demo/screenshots/screencast.gif)
 
 <!---
